@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/16 10:38:00.000.039,=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 23:01:05.000.744,=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 23:02:20.000.193,=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/20 01:03:40.000.348,=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/12 06:21:42.000.786,=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/01/12 06:21:47.000.618,=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/01/12 06:29:18.000.612,C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\FormUnit1.pas=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\UAS_Mobile\Server\Form\fMain.pas</Transaction>
+    <Transaction>2022/01/12 06:29:18.000.612,C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\UAS_Mobile\Server\Form\fMain.dfm</Transaction>
+    <Transaction>2022/01/12 06:31:04.000.266,C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\UAS_Mobile\Server\Module\WebModuleServer.dfm</Transaction>
+    <Transaction>2022/01/12 06:31:04.000.266,C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\UAS_Mobile\Server\Module\WebModuleServer.pas</Transaction>
+    <Transaction>2022/01/12 06:31:24.000.695,C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\NEW EDHOCATION\Documents\Embarcadero\Studio\Projects\UAS_Mobile\Server\ProjectUASMobile.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

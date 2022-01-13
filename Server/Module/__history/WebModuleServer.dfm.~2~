@@ -1,0 +1,47 @@
+object WebModule1: TWebModule1
+  Actions = <
+    item
+      Default = True
+      Name = 'DefaultHandler'
+      PathInfo = '/'
+      OnAction = WebModule1DefaultHandlerAction
+    end
+    item
+      Name = 'GetData'
+      PathInfo = '/Get'
+      OnAction = WebModule1GetDataAction
+    end
+    item
+      Name = 'PostData'
+      PathInfo = '/Post'
+    end
+    item
+      Name = 'PutData'
+      PathInfo = '/Put'
+    end
+    item
+      Name = 'DeleteData'
+      PathInfo = '/Delete'
+    end>
+  Height = 380
+  Width = 400
+  PixelsPerInch = 96
+  object UniConnectionDb: TUniConnection
+    Left = 40
+    Top = 16
+  end
+  object SQL: TUniSQL
+    Connection = UniConnectionDb
+    Left = 120
+    Top = 16
+  end
+  object Query: TUniQuery
+    Connection = UniConnectionDb
+    Left = 184
+    Top = 16
+  end
+  object MySQLUniProvider1: TMySQLUniProvider
+    Left = 264
+    Top = 16
+  end
+end
